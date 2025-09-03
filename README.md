@@ -100,7 +100,7 @@ php -S localhost:8000
 
 ブラウザでアクセス
 
-http://localhost:8000/kadai.php
+http://localhost:8000/bbstest.php
 
 💡 今後の改善ポイント
 
